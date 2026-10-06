@@ -5516,6 +5516,17 @@ categories:
         github: darktable-org/darktable
         icon: https://i.ibb.co/09PfHbG/darktable.png
         openSource: true
+      - name: SnappyKit
+        icon: https://snappykit.site/android-chrome-512x512.png
+        openSource: false
+        description: >-
+          Suite of 40+ free image tools covering compression (JPG, PNG, WebP, AVIF),
+          40+ format conversion pairs (including HEIC from iPhone photos), resizing,
+          cropping, filters and EXIF metadata removal. All processing runs client-side
+          in the browser via Canvas and WebAssembly, so images never leave your device.
+          An automated test suite asserts that no upload or external-origin request
+          ever occurs. No accounts, no third-party scripts, no watermark.
+        url: https://snappykit.site
 
     - name: Video Editors
       alternativeTo: ['adobe premiere pro', 'final cut pro', 'davinci resolve', 'imovie', 'sony vegas pro']
